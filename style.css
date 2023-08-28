@@ -1,0 +1,15 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fascinate&family=Open+Sans:wght@700&family=Poppins&family=Preahvihear&family=Raleway&family=Roboto+Slab&family=Rubik+Iso&display=swap');
+
+*{
+  background: black;
+  color: white;
+  font-family: 'Bebas Neue', sans-serif;;
+}
+.cricket, .listeningmusic, .bgmi{
+  font-size: 200%;
+}
+img{
+  height: 350px;
+  width: 500px;
+}
